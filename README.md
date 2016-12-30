@@ -4,9 +4,12 @@ Upgrade from the older Utility. Use maven to manage dependencies.
 Catalogues
 
 httpclient -- is for httpclient4.5 usage test.
+
 basicobjects -- is for normally used objects and methods.
     date, string added. Will add more specific classes or types in the future.
+    
 thread -- is for multi-thread (concurrency) or single-thread Java coding.
+
 designpatterns -- is for design patterns learned and used.
 
 Will add in practice afterwards.
