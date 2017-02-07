@@ -12,6 +12,8 @@ thread -- is for multi-thread (concurrency) or single-thread Java coding.
 
 designpatterns -- is for design patterns learned and used.
 
+testrail -- is for integration with TestRail. Updated Feb,7, 2017
+
 Will add in practice afterwards.
 First edit, in 30th, Dec, 2016, Juan.
 
