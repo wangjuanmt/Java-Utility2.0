@@ -25,3 +25,17 @@ plugins=(git autojump osx brew node npm)  //zsh 使用的插件
 
 Terminal 系统偏好 Homebrew主题
 
+## java8
+1. install java8 in homebrew
+brew cask install java8 
+
+2. configure java8 as default java home
+vim .zshrc add the following
+``````
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home
+export PATH=$JAVA_HOME/bin:$PATH
+``````
+
+## maven
+brew install maven
+

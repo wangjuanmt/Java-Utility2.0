@@ -35,23 +35,6 @@
             <artifactId>junit</artifactId>
             <version>4.12</version>
         </dependency>
-        <!-- For TestRail -->
-        <dependency>
-            <groupId>com.nullin</groupId>
-            <artifactId>testrail-connector</artifactId>
-            <version>2.3.6-SNAPHSOT</version>
-        </dependency>
-        <dependency>
-            <groupId>com.nullin</groupId>
-            <artifactId>testrail-integration</artifactId>
-            <version>2.3.6-SNAPHSOT</version>
-            <type>pom</type>
-        </dependency>
-        <dependency>
-            <groupId>com.nullin</groupId>
-            <artifactId>testrail-tools</artifactId>
-            <version>2.3.6-SNAPHSOT</version><!-- For TestRail -->
-        </dependency>
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
